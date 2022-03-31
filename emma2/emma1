@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int i=4,k=6,j=5,result;
+    result=47%i+k*j+9;
+    cout <<result>>endl;
+}
+
+    
